@@ -1,0 +1,11 @@
+{
+  "sessions": [
+    {
+      "id": "3e7b922c-a02f-4463-a814-a6348437de37",
+      "name": "2026-02-04 09:42 - Initial build: Test-Management",
+      "created_at": "2026-02-04T09:42:18.878930Z",
+      "last_used": "2026-02-04T09:42:18.878930Z"
+    }
+  ],
+  "active_session": "3e7b922c-a02f-4463-a814-a6348437de37"
+}
